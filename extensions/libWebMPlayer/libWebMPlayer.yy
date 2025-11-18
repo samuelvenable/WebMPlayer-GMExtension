@@ -95,7 +95,6 @@
         {"name":"webm_grab_frame_buffer","path":"extensions/libWebMPlayer/libWebMPlayer.yy",},
       ],"origname":"","ProxyFiles":[
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libWebMPlayer.dylib","TargetMask":1,},
-        {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libWebMPlayer_arm.so","TargetMask":7,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libWebMPlayer_arm64.so","TargetMask":7,},
         {"resourceType":"GMProxyFile","resourceVersion":"1.0","name":"libWebMPlayer.so","TargetMask":7,},
       ],"uncompress":false,"usesRunnerInterface":false,},
@@ -141,4 +140,5 @@
   "tvosProps": false,
   "tvosSystemFrameworkEntries": [],
   "tvosThirdPartyFrameworkEntries": [],
+
 }
