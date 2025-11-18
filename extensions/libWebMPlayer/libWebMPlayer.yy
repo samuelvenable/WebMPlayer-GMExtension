@@ -27,55 +27,55 @@
       ],"copyToTargets":194,"filename":"libWebMPlayer.dll","final":"","functions":[
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_exists","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_exists","help":"webm_exists(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_exists","help":"webm_exists(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_add","argCount":0,"args":[
             1,
-          ],"documentation":"","externalName":"video_add","help":"webm_add(fname)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_add","help":"webm_add(fname)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_delete","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_delete","help":"webm_delete(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_delete","help":"webm_delete(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_is_playing","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_is_playing","help":"webm_is_playing(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_is_playing","help":"webm_is_playing(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_play","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_play","help":"webm_play(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_play","help":"webm_play(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_is_paused","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_is_paused","help":"webm_is_paused(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_is_paused","help":"webm_is_paused(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_pause","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_pause","help":"webm_pause(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_pause","help":"webm_pause(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_is_stopped","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_is_stopped","help":"webm_is_stopped(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_is_stopped","help":"webm_is_stopped(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_stop","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_stop","help":"webm_stop(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_stop","help":"webm_stop(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_get_width","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_get_width","help":"webm_get_width(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_get_width","help":"webm_get_width(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_get_height","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_get_height","help":"webm_get_height(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_get_height","help":"webm_get_height(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_get_duration","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_get_duration","help":"webm_get_duration(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_get_duration","help":"webm_get_duration(ind)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_get_property","argCount":0,"args":[
             2,
             2,
-          ],"documentation":"","externalName":"video_get_property","help":"webm_get_property(ind,prop)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_get_property","help":"webm_get_property(ind,prop)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_grab_frame_image","argCount":0,"args":[
             2,
             1,
-          ],"documentation":"","externalName":"video_grab_frame_image","help":"webm_grab_frame_image(ind,fname)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_grab_frame_image","help":"webm_grab_frame_image(ind,fname)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_grab_frame_buffer","argCount":0,"args":[
             2,
             1,
-          ],"documentation":"","externalName":"video_grab_frame_buffer","help":"webm_grab_frame_buffer(ind,buffer)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_grab_frame_buffer","help":"webm_grab_frame_buffer(ind,buffer)","hidden":false,"kind":1,"returnType":2,},
         {"resourceType":"GMExtensionFunction","resourceVersion":"1.0","name":"webm_get_playtime","argCount":0,"args":[
             2,
-          ],"documentation":"","externalName":"video_get_playtime","help":"webm_get_playtime(ind)","hidden":false,"kind":1,"returnType":2,},
+          ],"documentation":"","externalName":"webm_get_playtime","help":"webm_get_playtime(ind)","hidden":false,"kind":1,"returnType":2,},
       ],"init":"","kind":1,"order":[
         {"name":"webm_exists","path":"extensions/libWebMPlayer/libWebMPlayer.yy",},
         {"name":"webm_add","path":"extensions/libWebMPlayer/libWebMPlayer.yy",},
